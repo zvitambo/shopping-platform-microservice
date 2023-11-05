@@ -13,4 +13,10 @@ describe("CustomerService", () => {
 
     test("Validate response", async () => {});
   })
+
+   describe("AddNewAddress", () => {
+     test("validate user inputs", () => {});
+
+     test("Validate response", async () => {});
+   });
 });
